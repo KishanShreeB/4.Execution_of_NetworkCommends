@@ -25,6 +25,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+
 ## PING
 ![image](https://github.com/user-attachments/assets/999c4ba9-e12c-4735-87ec-29a19c12de1a)
 ## TRACERT
@@ -48,7 +49,7 @@ This commands includes
 
 
 
-
+~~~
 
 
 ## Output
