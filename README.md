@@ -25,6 +25,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+## Output
 
 ## PING
 ![image](https://github.com/user-attachments/assets/999c4ba9-e12c-4735-87ec-29a19c12de1a)
@@ -52,7 +53,7 @@ This commands includes
 
 
 
-## Output
+
 
 ## Result
 Thus Execution of Network commands Performed 
